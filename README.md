@@ -10,4 +10,3 @@ Made in 48 hours.
 
 - [Unity 2017.1.0f3](https://unity3d.com/pt) (or higher) 
 - [Stardart Assets](https://www.assetstore.unity3d.com/en/#!/content/32351) -> Character
-
